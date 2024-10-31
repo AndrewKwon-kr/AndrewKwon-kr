@@ -13,6 +13,6 @@ Frontend Developer
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Redux](https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux)
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/vuedotjs?style=for-the-badge&logo=vuejs&logoColor=white">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AndrewKwon-kr.AndrewKwon-kr)
